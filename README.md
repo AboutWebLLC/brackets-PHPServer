@@ -5,7 +5,7 @@ Install as you would any other extension.
 
 **Requires** 
 
-1. php-cgi to be in your path! A default install of PHP should do this for you.
+1. Add your PHP install folder to your PATH! On windows you can use this guide: http://www.nextofwindows.com/how-to-addedit-environment-variables-in-windows-7/
 2. At least Brackets Sprint 21
 3. These changes to brackets: https://github.com/jrowny/brackets/commit/2d1a970016eaecba6a252b15a1cf1ec6dff9ff44
 
