@@ -1,7 +1,9 @@
 brackets-PHPServer
 ==================
 
-Install as you would any other extension. You must have at least Brackets 21
+Install as you would any other extension. You must have at least Brackets 21 with MASTER! 
+
+Hopefully by Sprint 23 no additional changes will be needed.
 
 **Requires some extra steps** 
 
