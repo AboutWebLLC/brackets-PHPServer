@@ -197,8 +197,7 @@ define(function (require, exports, module) {
             Inspector.Page.reload();
 
             // Reload unsaved changes
-            //TODO: EXPOSE!
-            //_onReconnect();
+            LiveDevelopment.reconnect();
         }
     }
 
